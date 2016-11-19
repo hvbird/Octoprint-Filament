@@ -1,3 +1,6 @@
+Add GPIO pull-up
+-----------
+
 Pause print on GPIO filament runout sensor
 
 The following need to be added to the config.yaml:
